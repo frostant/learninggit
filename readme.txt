@@ -2,7 +2,7 @@
 Git is a new version control AND system
 =======
 Git is a new version control AND system
->>>>>>> feature1
+bug is fixed
 Git was free software
 balabala
 inner
